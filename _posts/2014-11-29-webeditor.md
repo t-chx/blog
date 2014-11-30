@@ -12,7 +12,7 @@ After the native editor for GitBook, we are now releasing a web editor fully int
 
 ![GitBook WebEditor screenshot]({{ site.url }}assets/2014-11-29-webeditor.png)
 
-GitBook's desktop editor (supporting Mac, Windows and Linux) was a success, loved and cherrished by thousands of authors. However, many authors wanted the simplicity and convenience (no-installation) of a web editor, and as a result of that feedback we went a built an awesome web editor!
+GitBook's desktop editor (supporting Mac, Windows and Linux) was a success, loved and cherrished by thousands of authors. However, many authors wanted the simplicity and convenience (no-installation) of a web editor, and as a result of that feedback we went and built an awesome web editor!
 
 ### Edit all your books
 
