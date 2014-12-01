@@ -3,7 +3,7 @@ layout: post
 title:  "Taipei's new mayor writes a GitBook"
 date:   2014-12-01 00:01:00
 categories: authors
-author: aaronomualln
+author: aaronomullan
 ---
 
 Taipei's newly elected mayor, [Ko Wen-Je](http://en.wikipedia.org/wiki/Ko_Wen-je), used gitbook to successfuly publish his campain's official "whitebook".
