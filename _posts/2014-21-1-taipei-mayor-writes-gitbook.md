@@ -6,7 +6,7 @@ categories: authors
 author: aaronomullan
 ---
 
-[Taipei's](http://en.wikipedia.org/wiki/Taipei) newly elected mayor, [Ko Wen-Je](http://en.wikipedia.org/wiki/Ko_Wen-je), used gitbook to successfuly publish his campain's official "whitebook".
+[Taipei's](http://en.wikipedia.org/wiki/Taipei) (Taiwan's capital) newly elected mayor, [Ko Wen-Je](http://en.wikipedia.org/wiki/Ko_Wen-je), used gitbook to successfuly publish his campain's official "whitebook".
 
 <!-- more -->
 
@@ -22,4 +22,4 @@ It's interesting to see a politician take this path, embracing the digital era a
 
 We see GitBook as a platform, that empowers everyone regardless of their social status, age or experience, to openly write and share their ideas. We hope that Dr Ko's example will inspire many to follow in his steps.
 
-Finally I would to congratulate Dr Ko and his team for their election and I wish them the best of luck for the coming years, hopefully they will help Taipei (Taiwan's capital) grow and propser as an international city.
+Finally I would to congratulate Dr Ko and his team for their election and I wish them the best of luck for the coming years, hopefully they will help Taipei grow and propser as an international city.
