@@ -18,7 +18,7 @@ Earlier this week, around wednesday, they decided to publish and share their off
 
 Their **"whitebook"** was widely successful, being read by nearly 250,000 unique readers, in less than 5 days, gathering more than 36,000 likes on Facebook and millions of page views from Taipei's citizens days before the elections.
 
-It's interesting to see a politician take this path and openly share his plan and thoughts with the citizens, this transparency enables debates and ultimately allows citizens to give their thoughts and feedback on a politician's campaign.
+It's interesting to see a politician take this path, embracing the digital era and using e-books to openly share his plan and thoughts with the citizens, this transparency enables debates and ultimately allows citizens to give their thoughts and feedback on a politician's campaign.
 
 We see GitBook as a platform, that empowers everyone regardless of their social status, age or experience, to openly write and share their ideas. We hope that Dr Ko's example will inspire many to follow in his steps.
 
