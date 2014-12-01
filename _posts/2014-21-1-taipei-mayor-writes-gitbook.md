@@ -16,7 +16,7 @@ author: aaronomullan
 
 Earlier this week, around wednesday, they decided to publish and share their official political agenda ("whitebook") [as a GitBook](http://whitebook.kptaipei.tw/), as an act of transparency and openness.
 
-Their **"whitebook"** was widely successful, being read by nearly 250,000 unique readers, in less than 5 days, gathering more than 36,000 likes on Facebook and millions of page views from Taipei's citizens days before the elections.
+Their **"whitebook"** was widely successful, being read by nearly 250,000 unique readers, in less than 5 days, gathering more than 36,000 likes on Facebook and millions of page views from Taipei's citizens, just days before the elections.
 
 It's interesting to see a politician take this path, embracing the digital era and using e-books to openly share his plan and thoughts with the citizens, this transparency enables debates and ultimately allows citizens to give their thoughts and feedback on a politician's campaign.
 
