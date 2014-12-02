@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taipei's new mayor writes a GitBook"
-date:   2014-12-01 00:00:00
+date:   2014-11-30 00:00:00
 categories: authors
 author: aaronomullan
 ---
