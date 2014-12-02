@@ -14,3 +14,4 @@ kramdown:
 gems:
   - jemoji
 
+timezone: "US/Pacific"

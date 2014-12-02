@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taipei's new mayor writes a GitBook"
-date:   2014-12-01 00:01:00
+date:   2014-11-30 00:00:00
 categories: authors
 author: aaronomullan
 ---
@@ -12,7 +12,7 @@ author: aaronomullan
 
 ![Picture of Ko Wen-Je, Taipei's new mayor]({{ site.url }}assets/2014-12-01-taipei-mayor.jpg)
 
-[Doctor Ko Wen-Je](https://www.gitbook.com/@doctorkowj) and his team won the elections this Saturday (see more [on the New York Time](http://www.nytimes.com/2014/11/30/world/asia/independent-is-elected-taipei-mayor-as-taiwans-governing-party-falters-.html)).
+[Doctor Ko Wen-Je](https://www.gitbook.com/@doctorkowj) and his team won the elections this Saturday (see more [on the New York Times](http://www.nytimes.com/2014/11/30/world/asia/independent-is-elected-taipei-mayor-as-taiwans-governing-party-falters-.html)).
 
 Earlier this week, around wednesday, they decided to publish and share their official political agenda ("whitebook") [as a GitBook](http://whitebook.kptaipei.tw/), as an act of transparency and openness.
 

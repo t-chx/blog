@@ -2,7 +2,7 @@
 layout: post
 title:  "Goodbye Google Authorship"
 date:   2014-08-29 22:33:00
-categories: infos
+categories: features
 author: samypesse
 ---
 Google today announced that it will be removing Google Authorship from search results.
