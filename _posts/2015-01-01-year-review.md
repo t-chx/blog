@@ -3,7 +3,7 @@ layout: post
 title:  "2014: Year in Review"
 date:   2015-01-01 8:00:00
 categories: infos
-author: samypesse
+author: aaronomullan
 ---
 
 2014 has been GitBook's first year. In just a few months, we’ve grown to a community of over 20,000 authors (and growing), reaching more than half a million ebook downloads and ten millions book views.
