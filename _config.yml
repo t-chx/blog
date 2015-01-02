@@ -4,6 +4,7 @@ description: >
   Awesome feature and team updates about GitBook
 baseurl: ""
 url: "https://gitbookio.github.io/blog/"
+#url: "http://localhost:4000/"
 
 # Build settings
 markdown: kramdown
