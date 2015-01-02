@@ -26,7 +26,7 @@ Let's take a look back at 2014 and what we've accomplished together, before seei
 * **The GitBook Platform** : We launch `GitBook.io`, a platform to host and build gitbooks
 * **Building, Hosting, Payments** : The GitBook platform ships book building, hosting, payments ... oh my !
 * **Themes and book landing pages** : Authors now have their own custom landing page for each book, allowing them to theme and style with their own branding
-* **Deep Git/GitHub Integration** : This was quite a big feature that we shipped behind the scenes, all GitBooks are now stored behind the scenes as Git repositories while working in sync and harmony with your GitHub hosted repositories. Expect to see more Git wonders in 2015 !
+* **Deep Git/GitHub Integration** : This was quite a big feature that we shipped behind the scenes, all GitBooks are now stored as Git repositories while working in sync and harmony with your GitHub hosted repositories. Expect to see more Git wonders in 2015 !
 * **Web Editor** : Due to your request, we build and ship a web based version of our editor, simplifying the onboarding experience and allowing anyone to benefit from the GitBook workflow, no downloads or setup needed.
 * **Advanced Search** : You can now [run advanced queries](https://www.gitbook.com/search/advanced) over all public books on our platform
 * **Distribution** : Distribution is now in Beta, contact us if you want to try it out. We now ship books to Google's play Store, Gumroad and more to come !
