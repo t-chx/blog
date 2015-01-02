@@ -31,3 +31,13 @@ Let's take a look back at 2014 and what we've accomplished together, before seei
 * **Advanced Search** : You can now [run advanced queries](https://www.gitbook.com/search/advanced) over all public books on our platform
 * **Distribution** : Distribution is now in Beta, contact us if you want to try it out. We now ship books to Google's play Store, Gumroad and more to come !
 
+### 2015 Preview
+
+2015 will be a busy year, we've got many long awaited features and surprises planned ! Here's a few that will be comming very soon :
+
+* **Enterprise** : Mid January, we will start shipping the first releases of GitBook Enterprise, an enterprise grade documentation solution, that allows enterprises to collaborate and work efficiently on documentation. It's simple and pleasant to use. We ship industry standard VM images to our clients for a no hassle setup, so they can enjoy the GitBook experience behind the firewall !
+* **Distribution** : is in Beta right now. We are quickly growing our support for 3rd party marketplaces, and you will soon be able to ship your books to Amazon, Google and iBooks, with little more than the click of a button. No hassle, no need to deal with ISBNs or anything else, we deal with that for you.
+* **Collaboration** : is a beautiful and empowering thing. Software developers and the software community as a whole have greatly benefited from simplified collaboration thanks to GitHub, I think it's time authors join the party.
+* **Your feature ?** : That's right, here at GitBook, we love feedback, if you have an idea or feature request that you would like to see in GitBook this year, we would love to hear it !
+
+Thank you for making 2014 such an awesome year, let's make 2015 an even better one together !
