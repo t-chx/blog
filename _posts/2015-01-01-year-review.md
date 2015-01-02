@@ -20,7 +20,13 @@ Let's make 2015 an awesome year for authors and GitBook.
 
 Let's take a look back at 2014 and what we've accomplished together, before seeing what awaits in 2015 :
 
-### 2014
-* **May** : Samy and I release the open [GitBook format and toolchain](https://github.com/GitbookIO/gitbook), prototyped over a weekend. But quickly matures thanks to your input and contributions.
-* **(early) June** : We release the **GitBook Editor** for Windows, Linux and Mac
-* **(late)  June** : We launch `GitBook.io`, a platform to host and build gitbooks
+### 2014 in Review
+* **GitBook Format/Toolchain** : [Samy and I](https://www.gitbook.com/about) release the open [GitBook format and toolchain](https://github.com/GitbookIO/gitbook), prototyped over a weekend. But quickly matures thanks to your input and contributions.
+* **GitBook Desktop Editor** : We release the **GitBook Editor** for Windows, Linux and Mac
+* **The GitBook Platform** : We launch `GitBook.io`, a platform to host and build gitbooks
+* **Building, Hosting, Payments** : The GitBook platform ships book building, hosting, payments ... oh my !
+* **Themes and book landing pages** : Authors now have their own custom landing page for each book, allowing them to theme and style with their own branding
+* **Web Editor** : Due to your request, we build and ship a web based version of our editor, simplifying the onboarding experience and allowing anyone to benefit from the GitBook workflow, no downloads or setup needed.
+* **Advanced Search** : You can now [run advanced queries](https://www.gitbook.com/search/advanced) over all public books on our platform
+* **Distribution** : Distribution is now in Beta, contact us if you want to try it out. We now ship books to Google's play Store, Gumroad and more to come !
+
