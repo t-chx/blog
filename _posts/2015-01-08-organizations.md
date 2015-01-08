@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GitBook gets Organizations/Teams !"
+title:  "Introducing Organizations and Teams"
 date:   2015-01-08 23:00:00
 categories: features
 author: aaronomullan
