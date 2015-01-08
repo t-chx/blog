@@ -10,6 +10,8 @@ Many authors use GitBook as part of a team (company/university/...) collaborativ
 
 <!-- more -->
 
+If you've ever had to manage multiple GitBook accounts, desired a team-specific dashboard or needed to share multiple books with your team, you're going to love Organizations.
+
 ![Organizations with account switcher]({{ site.url }}assets/2015-01-08-organizations.png)
 
 ### A home for your organization's books
