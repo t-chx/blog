@@ -26,6 +26,11 @@ Quite a few of you had been asking for this feature for a while and had been usi
 
 If you want to check out the specifics, you can read through [our documentation regarding organizations](http://help.gitbook.io/platform/organizations/README.html), it covers everything you need to get started : [converting user accounts](http://help.gitbook.io/platform/organizations/convert.html), [transferring ownership](http://help.gitbook.io/platform/organizations/ownership.html), etc ...
 
+## Get started with Organizations today
+
+Go ahead and [create a new organization](https://www.gitbook.com/organizations/new) to bring your team together on GitBook !
+
+
 We hope you'll enjoy this feature and that it will boost you and your colleagues productivity.
 
 As usual if you have any feedback or ideas you would like to share, we would love to hear them !
