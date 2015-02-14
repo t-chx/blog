@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dale Sande and Kianosh Pourian: writing 'Sass in the real world'"
-date:   2015-02-04 14:32:00
+date:   2015-02-14 14:32:00
 categories: authors
 author: samypesse
 ---
@@ -10,7 +10,7 @@ Dale Sande and Kianosh Pourian have found in Gitbook all the essential tools all
 
 <!-- more -->
 
-![Dale Sande]({{ site.url }}assets/2015-02-04-dale.jpg)
+![Dale Sande]({{ site.url }}assets/2015-02-14-dale.jpg)
 
 Joining the Gitbook community is a real game changer for authors willing to embrace the digital era. Dale Sande and Kianosh Pourian experienced it when they decided in june 2014 to publish a series of tech related publications featuring education on web design.
 
