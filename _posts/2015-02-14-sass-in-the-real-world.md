@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dale Sande and Kianosh Pourian writing 'Sass in the real world'"
+title:  "Dale Sande and Kianosh Pourian: writing 'Sass in the real world'"
 date:   2015-02-04 14:32:00
 categories: authors
 author: samypesse
