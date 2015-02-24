@@ -22,7 +22,7 @@ Just a few weeks ago, GitBook's 2.0.0 release introduced [AsciiDoc support](http
 
 We have moved a lot of computationally intensive tasks to workers, such as spellchecking and previewing, freeing up the main thread resulting in a more fluid and pleasant writing experience.
 
-### New Dictionaries: French, Italian, Spannish and German
+### New Dictionaries: French, Italian, Spanish and German
 
 GitBook's authors form a global community, with writers from all continents, Asia, Europe, ..., to offer a better experience to those international authors we're extending our spellcheck support. Support for french, italian, spanish and german is now built-in.
 
