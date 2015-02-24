@@ -3,9 +3,10 @@ layout: post
 title:  "Introducing WebEditor v2: Better, Faster and AsciiDoc"
 date:   2015-02-24 00:01:00
 categories: releases
-author: samypesse
+author: aaronomullan
 ---
 
+The Editor is a critical part of an author's workflow. Today we're releasing our editor's v2, with new features and fixes we hope will make you love writing with GitBook !
 
 <!-- more -->
 
@@ -34,3 +35,6 @@ One of the great advantages of using Git, is that you never have to worry about 
 ### Other improvements
 
 This version includes many smaller improvements and bugfixes, such as: Drag and drop to upload or insert images, etc...
+
+We hope you'll enjoy these new features and improvements. We would love to hear what you think.
+If there are features or fixes you would like to see, please [contact us](https://www.gitbook.com/contact) :)
