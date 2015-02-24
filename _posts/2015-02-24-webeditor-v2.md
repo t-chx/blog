@@ -33,4 +33,4 @@ When writing, it's always usefull to be able to quickly acecss the history of yo
 
 ### Other improvements
 
-This new version includes a certain number of small but usefull improvements such as: Drag and drop to upload or insert images, etc.
+This new version includes a certain number of small improvements and bugfixes, such as: Drag and drop to upload or insert images, etc.
