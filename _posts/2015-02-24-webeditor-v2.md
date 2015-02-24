@@ -12,13 +12,13 @@ The Editor is a critical part of an author's workflow. Today we're releasing our
 
 ![GitBook WebEditor screenshot]({{ site.url }}assets/2015-02-24-webeditor-v2.png)
 
-## AsciiDoc Support
+### AsciiDoc Support
 
 Just a few weeks ago, GitBook's 2.0.0 release introduced [AsciiDoc support](https://www.gitbook.com/blog/releases/version-2-0-0), we're proud to announce that new web-editor has beautiful AsciiDoc support !
 
 ![Screenshot of AsciiDoc preview]({{ site.url }}assets/2015-02-24-webeditor-asciidoc.png)
 
-## Better Performance
+### Better Performance
 
 We have moved a lot of computationally intensive tasks to workers, such as spellchecking and previewing, freeing up the main thread resulting in a more fluid and pleasant writing experience.
 
