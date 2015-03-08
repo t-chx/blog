@@ -10,7 +10,7 @@ March 8th , women’s day, is the perfect occasion for us to tell you about one 
 
 <!-- more -->
 
-![DjangoGirls]({{ site.url }}assets/2015-03-08-djangogirl.jpg)
+![DjangoGirls]({{ site.url }}assets/2015-03-08-djangogirls.jpg)
 
 GitBook experiences are diverse, unique to each author in our community. Each experience enlightens why self-publishing is such an effective solution for authors willing to share their work with a specific audience.
 
