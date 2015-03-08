@@ -20,7 +20,7 @@ They have without doubt risen to the challenge! Organizing [one-day workshops](h
 
 Their [book](http://tutorial.djangogirls.org), a tutorial initially created for Django Girls workshops, has in fact reached a larger public bringing the number of unique readers who have decided to embark on the web development adventure to 35,000 totalling more than 350,000 views.
 
-Through self-publishing and the GitBook platform they have been able to share all the workshop materials using one specific platform making it easy and available for everyone. GitBook's collaboration features helped them leverage input from workshop participants, thus constantly perfecting the content to their target audience. Indeed, it has been easy to keep the tutorial up to date with a team contributors, as GitBook facilitates changes and updates in a structured workflow thanks to version control, more specifically great Git and [GitHub](https://github.com) integration.
+Through self-publishing and the GitBook platform they have been able to share all the workshop materials using one specific platform making it easy and available for everyone. GitBook's collaboration features helped them leverage input from workshop participants, constantly perfecting the content to their target audience. Indeed, it has been easy to keep the tutorial up to date with a team contributors, as GitBook facilitates changes and updates in a structured workflow thanks to version control, more specifically great Git and [GitHub](https://github.com) integration.
 
 GitBook’s Book Analytics also came in handy when valuable information such as the number of unique readers and their origin became interesting to have.
 
