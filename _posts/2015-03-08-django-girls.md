@@ -12,23 +12,23 @@ March 8th , women’s day, is the perfect occasion for us to tell you about one 
 
 ![DjangoGirls]({{ site.url }}assets/2015-03-08-djangogirl.jpg)
 
-There are as many Gitbook experiences as there are authors in our community. Each experience enlightens the many reasons why self-publishing is an effective solution for authors willing to share their work with a specific audience.
+GitBook experiences are diverse, unique to each author in our community. Each experience enlightens why self-publishing is such an effective solution for authors willing to share their work with a specific audience.
 
-March 8th celebrates women all around the world and it is a great occasion for us to share with you the great work that has been accomplished by the team behind [Django Girls](https://www.gitbook.com/@djangogirls). The co-founders, Ola Sitarska and Ola Sendecka’s main  motivation is as they say it “to inspire women to fall in love with programming”. What a great challenge as diversity keeps being an urgent issue in this mainly male community!
+March 8th celebrates women all around the world, it's the perfect occasion for us to share with you the great work accomplished by the team behind [Django Girls](https://www.gitbook.com/@djangogirls). The co-founders, Ola Sitarska and Ola Sendecka’s main  motivation is as they say it “to inspire women to fall in love with programming”. What a great challenge as diversity remains a pressing issue in this mainly male community!
 
-It wouldn’t be an understatement to say that they’ve taken up the challenge! With [one-day workshops](http://djangogirls.org) organized through all five continents, mentors help aspiring female programmers to improve their skills in Python and Django as well as with HTML and CSS
+They have without doubt risen to the challenge! Organizing [one-day workshops](http://djangogirls.org) on all five continents, mentors help aspiring female programmers to improve their skills in Python and Django as well as with HTML and CSS.
 
-Their [book](http://tutorial.djangogirls.org), a tutorial initially created for Django Girls workshops, has in fact reached a larger public bringing the number of unique readers who have decided to embark on a web development adventure to 35,000 with more than 350,000 page read.
+Their [book](http://tutorial.djangogirls.org), a tutorial initially created for Django Girls workshops, has in fact reached a larger public bringing the number of unique readers who have decided to embark on the web development adventure to 35,000 totalling more than 350,000 views.
 
-Through self-publishing and the Gitbook platform they have been able to share all the workshop materials using one specific platform making it easy and available for everyone. The GitBook collaboration tool has been particularly helpful when they decided to take input from workshop participants, therefore constantly improving the content of their book to better address their target. Indeed, it has been quite easy to keep the tutorial up to date with the many contributors they’ve had as GitBook facilitates changes and evolutions in a structured workflow while being perfectly integrated with GitHub.
+Through self-publishing and the GitBook platform they have been able to share all the workshop materials using one specific platform making it easy and available for everyone. GitBook's collaboration features helped them leverage input from workshop participants, thus constantly perfecting the content to their target audience. Indeed, it has been easy to keep the tutorial up to date with a team contributors, as GitBook facilitates changes and updates in a structured workflow thanks to version control, more specifically great Git and [GitHub](https://github.com) integration.
 
-Gitbook’s Book Analytics also came in handy when valuable information such as the number of unique readers and their origin became interesting to have.
+GitBook’s Book Analytics also came in handy when valuable information such as the number of unique readers and their origin became interesting to have.
 
 We could summarize Django Girls’ GitBook experience by saying it brought down walls: first within the content by allowing people, mainly women, to discover the world of programming. But also in the process by handing them the tools that brought valuable information to their public and keeps their publication in constant evolution.
 
-The next step they’re currently working on is offering this tutorial in more languages, as the events have been hosted in a larger number of countries. They are already available in English, Polish, Ukrainian and Spanish.
+The next step they are working on is translating their tutorials to more languages, as they host events in a growing number of countries. They are already available in English, Polish, Ukrainian and Spanish.
 
-Django Girls is an inspiring concept for all of us, and we wish the best of luck to the team for all the new exciting challenges to come!
+Django Girls is an inspiring concept for everyone of us, how a small team of talented and passionate people can drive positive and meaningful change in the world, by helping others to learn and explore. We wish Django Girls the best of luck for all the new exciting challenges to come!
 
 You can read The Django Girls tutorial on GitBook and learn more about Django Girls at [djangogirls.org](http://djangogirls.org).
 You can also support Django Girls on [Patreons](https://www.patreon.com/djangogirls).
