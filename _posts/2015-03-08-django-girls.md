@@ -18,7 +18,7 @@ March 8th celebrates women all around the world and it is a great occasion for u
 
 It wouldn’t be an understatement to say that they’ve taken up the challenge! With [one-day workshops](http://djangogirls.org) organized through all five continents, mentors help aspiring female programmers to improve their skills in Python and Django as well as with HTML and CSS
 
-Their [book](http://tutorial.djangogirls.org), a tutorial initially created for DjangoGirls workshops, has in fact reached a larger public bringing the number of unique readers who have decided to embark on a web development adventure to 35,000 with more than 350,000 page read.
+Their [book](http://tutorial.djangogirls.org), a tutorial initially created for Django Girls workshops, has in fact reached a larger public bringing the number of unique readers who have decided to embark on a web development adventure to 35,000 with more than 350,000 page read.
 
 Through self-publishing and the Gitbook platform they have been able to share all the workshop materials using one specific platform making it easy and available for everyone. The GitBook collaboration tool has been particularly helpful when they decided to take input from workshop participants, therefore constantly improving the content of their book to better address their target. Indeed, it has been quite easy to keep the tutorial up to date with the many contributors they’ve had as GitBook facilitates changes and evolutions in a structured workflow while being perfectly integrated with GitHub.
 
@@ -28,7 +28,7 @@ We could summarize Django Girls’ GitBook experience by saying it brought down 
 
 The next step they’re currently working on is offering this tutorial in more languages, as the events have been hosted in a larger number of countries. They are already available in English, Polish, Ukrainian and Spanish.
 
-DjangoGirls is an inspiring concept for all of us, and we wish the best of luck to the team for all the new exciting challenges to come!
+Django Girls is an inspiring concept for all of us, and we wish the best of luck to the team for all the new exciting challenges to come!
 
-You can read The DjangoGirls tutorial on GitBook and learn more about DjangoGirls at [djangogirls.org](http://djangogirls.org).
-You can also support DjangoGirls on [Patreons](https://www.patreon.com/djangogirls).
+You can read The Django Girls tutorial on GitBook and learn more about Django Girls at [djangogirls.org](http://djangogirls.org).
+You can also support Django Girls on [Patreons](https://www.patreon.com/djangogirls).
