@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Editor: Proofreading & spellcheck"
+title:  "Editor: Proofreading & Spellcheck"
 date:   2015-03-23 3:32:00
 categories: features
 author: samypesse
