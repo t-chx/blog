@@ -1,29 +1,33 @@
 ---
 layout: post
-title:  "Proofreading in the Editor"
+title:  "Editor: Proofreading & spellcheck"
 date:   2015-03-23 3:32:00
 categories: features
 author: samypesse
 ---
 
-The web editor is one of the most important part of the GitBook experience.
+The editor is an essential part of the GitBook experience, authors need great tools to write their content. We've now integrated proofreading and spell checking directly into the editor, providing authors instant and valuable feedback as they type.
 
 <!-- more -->
 
 ![Screenshot of the web-editor]({{ site.url }}assets/2015-03-23-proofreading.png)
 
-### English Proofreading
+### Proofreading
 
-Proofreading is important for all types of authors, integrated in the web-editor, it highlights common errors such as wordy sentences, adverbs, passive voice, complicated words.
+Proofreading helps avoid common mistakes by highlighting common errors such as wordy sentences, adverbs, passive voice, complicated words, etc ...
 
-Proofreading is done in the editor using a lightweight library called [Rousseau](https://github.com/GitbookIO/rousseau), this library is open source and published on [GitHub](https://github.com/GitbookIO/rousseau).
+Proofreading is implemented with [Rousseau](https://github.com/GitbookIO/rousseau), a lightweight JavaScript library that we've [open sourced](https://github.com/GitbookIO/rousseau).
 
-Feel free to contribute to this library to add support for more checks or languages.
+Rousseau only supports english for now, so feel free to contribute [on GitHub](https://github.com/GitbookIO/rousseau) to add support for your language !
 
 ### 30 new dictionaries
 
-2 months ago, we introduced spellchecking with support for 5 languages; this new version brings support for 30 new dicitonaries including: Russian, Greek, Portuguese, ...
+About 2 months ago, we introduced spellchecking with an initial 5 languages; this release is an upgrade brining 30 new dicitonaries including: Russian, Greek, Portuguese, ...
 
-### Faster than ever
+### Better Performance
 
-This new version of the editor is also much more faster, preview has been improved to only reflect modifications. This enhances writing experience for all authors.
+This release is also much faster, it's quicker to load and seemlessly handles large documents.
+
+### The future
+
+This is just the beginning, proofreading is in it's infancy and we'll be working hard to continuously improve on it over the following months.
