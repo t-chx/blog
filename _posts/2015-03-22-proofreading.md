@@ -6,6 +6,7 @@ categories: features
 author: samypesse
 ---
 
+The web editor is one of the most important part of the GitBook experience.
 
 <!-- more -->
 
@@ -14,6 +15,10 @@ author: samypesse
 ### English Proofreading
 
 Proofreading is important for all types of authors, integrated in the web-editor, it highlights common errors such as wordy sentences, adverbs, passive voice, complicated words.
+
+Proofreading is done in the editor using a lightweight library called [Rousseau](https://github.com/GitbookIO/rousseau), this library is open source and published on [GitHub](https://github.com/GitbookIO/rousseau).
+
+Feel free to contribute to this library to add support for more checks or languages.
 
 ### 30 new dictionaries
 
