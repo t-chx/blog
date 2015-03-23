@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proofreading in the Editor"
-date:   2015-03-22 14:32:00
+date:   2015-03-23 3:32:00
 categories: features
 author: samypesse
 ---
@@ -10,7 +10,7 @@ The web editor is one of the most important part of the GitBook experience.
 
 <!-- more -->
 
-![Screenshot of the web-editor]({{ site.url }}assets/2015-03-22-proofreading.png)
+![Screenshot of the web-editor]({{ site.url }}assets/2015-03-23-proofreading.png)
 
 ### English Proofreading
 
