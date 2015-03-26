@@ -3,7 +3,7 @@ layout: post
 title:  "Import your GitHub/Git repository"
 date:   2015-03-26 3:32:00
 categories: features
-author: samypesse
+author: aaronomullan
 ---
 
 GitHub integration is a feature developers love, so we've made it even easier for devs to import books from GitHub.
