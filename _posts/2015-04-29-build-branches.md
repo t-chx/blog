@@ -10,13 +10,13 @@ GitBook now automatically builds branches, a great feature for teams working wit
 
 <!-- more -->
 
-![Build branches]({{ site.url }}assets/2015-04-26-build-branches.png)
+![Build branches]({{ site.url }}assets/2015-04-29-build-branches.png)
 
 Branch builds not only work within GitBook but also for branches pushed from GitHub, a real plus for those fond of our GitHub integration.
 
 ### Preview
 
-![Viewing branches builds]({{ site.url }}assets/2015-04-26-builds-access.png)
+![Viewing branches builds]({{ site.url }}assets/2015-04-29-builds-access.png)
 
 You can now preview work done on a branch before merging it to master, making it easier to review a collaborator's contributions our work on temporary branches.
 
