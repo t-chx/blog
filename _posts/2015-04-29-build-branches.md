@@ -18,5 +18,7 @@ Of course, this is also working with all books integrated with GitHub.
 
 ### Access your previous builds
 
+![Build branches]({{ site.url }}assets/2015-04-26-builds-access.png)
 
+It's also possible to access previous builds.
 
