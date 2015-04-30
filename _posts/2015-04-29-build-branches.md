@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Feature: Branch builds"
+title:  "Branch builds"
 date:   2015-04-29 3:32:00
 categories: features
 author: samypesse
