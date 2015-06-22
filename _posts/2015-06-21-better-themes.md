@@ -6,23 +6,22 @@ categories: features
 author: samypesse
 ---
 
-Landing pages are an important part of our marketing features, today we are releasing improvements to the default themes.
+Landing pages are an important part of our marketing features, today we are releasing improved default themes.
 
 <!-- more -->
 
 ![Landing Pages]({{ site.url }}assets/2015-06-20-better-themes.png)
 
-Landing pages allows authors to use well-crafted homepages to present their books, using custom domain name or their GitBook domain.
+Landing pages provide authors with well-crafted homepages to showcase their books, using a custom domain or their GitBook domain.
 
-Today, we are releasing improvements on our default collections of themes. These improvements make the homepages cleaner, more responsive and accessible on mobile.
+Our improved themes are cleaner, more responsive and mobile compatible.
 
-A new theme is also available "readme", it shows a beautiful output of your book's readme with links at the bottoms to access the whole content.
+We're also releasing a new default theme: **"readme"**, an elegant and minimalistic design centered around your book's readme.
 
-#### How to use a landing page with a theme?
+#### How to enable landing pages ?
 
-This feature needs to be enabled fron your book's settings, then simply click to the "Landing Page" icon on your dashboard (paint can icon).
+The landing page feature can be enabled in your book's settings, simply click the "Landing Page" icon from your book's dashboard (paint can icon).
 
-#### Contribute and create your theme
+#### Contribute and create your own theme
 
-As always, we are open to contributions, you can create your own theme and publish it on our GitHub repository: [GitbookIO/themes](https://github.com/GitbookIO/themes). Your theme will be accessible to all the community.
-
+As always we are open to your input, you can create your own theme by submitting a PR to our GitHub repository: [GitbookIO/themes](https://github.com/GitbookIO/themes). Once your PR is merged, everyone will be able to enjoy the beautiful theme you crafted !
