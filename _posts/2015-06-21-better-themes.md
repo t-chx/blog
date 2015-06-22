@@ -10,7 +10,7 @@ Landing pages are an important part of our marketing features, today we are rele
 
 <!-- more -->
 
-![Landing Pages]({{ site.url }}assets/2015-06-20-better-themes.png)
+![Landing Pages]({{ site.url }}assets/2015-06-21-better-themes.png)
 
 Landing pages provide authors with well-crafted homepages to showcase their books, using a custom domain or their GitBook domain.
 
