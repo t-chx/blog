@@ -24,10 +24,12 @@ Our editor works offline so you can write on trains, planes or simply at home wi
 
 Thanks to automatic updates, you'll always have the best and latest features on all platforms: Windows, Mac, Linux and the web.
 
-Moving forward, all new features available in the web editor will also be available on the desktop.
+All new features available in the web editor will also be available on the desktop.
 
 ## Moving forward
 
 A lot of work in this release went into improving our build and development process so shipping new releases takes no more than a couple of minutes.
 
 This will allow us to iterate quickly for future releases and get awesome features in your hands ASAP.
+
+You can read more about the editor [here](https://www.gitbook.com/editor).
