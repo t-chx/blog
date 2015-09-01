@@ -10,7 +10,7 @@ The desktop editor than many of you loved and cherished is back !
 
 <!-- more -->
 
-![GitBook Desktop Editor]({{ site.url }}assets/2015-08-31-desktop-editor.png)
+[![GitBook Desktop Editor]({{ site.url }}assets/2015-08-31-desktop-editor.jpg)]({{ site.url }}assets/2015-08-31-desktop-editor.png)
 
 Today we're happy to announce that our editor is now available on the desktop, you can [download it here](http://downloads.editor.gitbook.com) !
 
