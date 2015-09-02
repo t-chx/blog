@@ -6,7 +6,7 @@ categories: releases
 author: samypesse
 ---
 
-The desktop editor than many of you loved and cherished is back !
+The desktop editor that many of you loved and cherished is back !
 
 <!-- more -->
 
