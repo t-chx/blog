@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Desktop editor for Mac, Windows and Linux"
-date:   2015-09-01 16:32:00
+title:  "GitBook Desktop is back on Mac, Windows and Linux !"
+date:   2015-09-01 23:32:00
 categories: releases
 author: samypesse
 ---
 
-The desktop editor that many of you loved and cherished is back !
+The desktop editor that many of you loved and cherished is back ! This new release has tons of new features and improvements that you’ll definitely want to try out.
 
 <!-- more -->
 
