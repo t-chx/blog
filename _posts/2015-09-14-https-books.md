@@ -6,10 +6,10 @@ categories: features
 author: samypesse
 ---
 
-Starting today, books homepages and content on gitbooks.io will be served over HTTPS.
+Starting today, we're enabling HTTPS for all books served on gitbook.com.
 
 <!-- more -->
 
-Books content and homepage are by default served under `username.gitbooks.io/book/`. We've now enabled SSL connection to these hostname. This will provide a more secure and reliable experience to the readers, and also improve SEO.
+By default books and homepages are served under `username.gitbooks.io/book/`. These books can now be accessed over HTTPS, thus providing a more reliable and secure experience to readers, while also improving SEO.
 
-HTTPS is only working for books using default domain name, if your book is using a custom domain name, it currently can't be served under HTTPS.
+HTTPS isn't enabled for books using custom domains, this isn't yet possible for technical reasons. That might change in a few months thanks to the Linux Foundation's [Let's Encrypt](https://letsencrypt.org/) effort.
