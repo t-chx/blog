@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Private and paid books on gitbook.com served under HTTPS"
+title:  "Custom domains for private and paid books"
 date:   2015-09-21 12:32:00
 categories: features
 author: samypesse
 ---
 
-HTTPS is now enabled for private and paid books served on gitbook.com !
+Custom domains are now enabled for private and paid books.
 
 <!-- more -->
 
