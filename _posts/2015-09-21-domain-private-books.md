@@ -6,11 +6,11 @@ categories: features
 author: samypesse
 ---
 
-Starting today, we're enabling gitbooks.io domains and HTTPS for private and paid books served on gitbook.com.
+HTTPS is now enabled for private and paid books served on gitbook.com !
 
 <!-- more -->
 
-By default public books and homepages are served under `https://username.gitbooks.io/book/`. We're now enabling these domains for private and paid books content, thus providing a more reliable and secure experience to readers.
+Public books and homepages are served under `https://username.gitbooks.io/book/`. We're now enabling these domains for private and paid books, allowing for a more reliable and secure reading experience.
 
 Private and paid books can also link a custom domain to serve content. Add your custom domain name in your book settings, then point your [DNS to GitBook](https://help.gitbook.com/platform/domains.html).
 
