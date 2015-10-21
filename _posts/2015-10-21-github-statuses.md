@@ -12,6 +12,8 @@ GitBook now automatically update pull-request status on GitHub.
 
 ![Commit statuses]({{ site.url }}assets/2015-10-21-github-statuses.png)
 
-Starting today, books that are integrated with GitHub will get more visibility in GitHub about the status of their builds.
+Starting today, GitBook will update the build status on your GitHub pull requests, for books that are integrated with GitHub.
+
+After you open a PR, we update its status in GitHub with a pass/fail status, and a link back to our build details. You can even set it as a required status check to ensure that only PRs meeting your organization’s standards are merged in protected branches.
 
 
