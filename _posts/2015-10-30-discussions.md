@@ -6,8 +6,8 @@ categories: features
 author: samypesse
 ---
 
-GitBook now displays beautiful status indicators on your GitHub Pull-Requests.
+Today we are making collaboration easier, by introducing Discussions.
 
 <!-- more -->
 
-![Commit statuses]({{ site.url }}assets/2015-10-21-github-statuses.png)
+![Discussions]({{ site.url }}assets/2015-10-30-discussions.png)
