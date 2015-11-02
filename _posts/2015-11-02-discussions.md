@@ -10,4 +10,4 @@ Today we are making collaboration easier, by introducing Discussions.
 
 <!-- more -->
 
-![Discussions]({{ site.url }}assets/2015-10-30-discussions.png)
+![Discussions]({{ site.url }}assets/2015-11-02-discussions.png)
