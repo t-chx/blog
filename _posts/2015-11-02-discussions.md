@@ -12,13 +12,13 @@ Collaboration just got that much better thanks to "Comments" and "Discussions" !
 
 Thousands of teams use GitBook to publish everything from documentation, manuals, research papers to books. Collaboration is essential to their workflow. Today we are introducing a new set of features to improve collaboration: Discussions and Inline-comments.
 
-#### Inline Comments
+### Inline Comments
 
 Inline comments are activated by default for all new books. They allow collaborators and readers to comment on your book directly from the web reader. Comments render beauituflly inline without distracting from your content.
 
 ![Inline Comments]({{ site.url }}assets/2015-11-02-discussions.png)
 
-#### Discussions Dashboard
+### Discussions Dashboard
 
 You may have noticed a new tab on your book's page, that's hew new "Discussions" dashboard ! The discussions dashboard allows you to start new threads, browse existing ones, read through user feedback and participate in team conversations.
 
