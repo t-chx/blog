@@ -1,23 +1,27 @@
 ---
 layout: post
-title:  "The Branches Whitelist"
+title:  "Builds: Default & whitelisted branches"
 date:   2015-11-10 14:00:00
 categories: features
 author: jpreynat
 ---
 
-Get control over the Gitbook automatic building system to perfectly suit your needs thanks to the new branches whitelist option !
+GitBook now plays nicely with non-default branch setups !
 
 <!-- more -->
 
-### Have what you need
+### When do I need whitelisted branches ?
 
-[Automatic builds]({{ site.url }}features/build-branches) is an essential part of the Gitbook workflow. This great feature allows for easy collaborative work as your different branches are automatically built when your book is updated.
+[Automatic builds]({{ site.url }}features/build-branches) are an essential part of the Gitbook workflow especially if you use our GitHub integration.
 
-Today, Gitbook makes it better as you can specify only a set of branches to build on updates. The new **Building Specific Branches** setting is already available in the *Publication* pane of your book's settings.
+Often times when using GitBook to write your documentation, you'll store your docs in a `/docs/` subfolder of your repo alongside your code or other times in a branch named `docs` or `gitbook`.
+
+In the latter case you'll want to whitelist or change your default branch to match up with the branch where your docs are stored so you don't trigger unecessary GitBook builds.
 
 ![Branches whitelist]({{ site.url }}assets/2015-11-11-branches-whitelist.png)
 
-After this upgrade, all your branches are selected by default. From here, you can then easily **whitelist** any number of branches, from one to all.
+### Where can I change my default branch ?
 
-So start browsing, make your selection and have the work done ! :)
+By default all branches are whitelisted and your default branch is `master`, but you can easily change those now in a few clicks from your book's settings page.
+
+Best of luck writing and branching ! :)
