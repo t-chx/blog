@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Builds: Default & whitelisted branches"
-date:   2015-11-10 14:00:00
+date:   2015-11-13 11:00:00
 categories: features
 author: jpreynat
 ---
