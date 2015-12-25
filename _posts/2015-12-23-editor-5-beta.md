@@ -24,6 +24,10 @@ A requested feature for the editor was the ability to commit multiple files at o
 
 Authors can disable "Auto-commit" from the settings dialog. Once a file is modified, you can commit changes by clicking the "Commit" button and entering a short description of your changes.
 
+### Login with GitHub
+
+Logining in the editor is now simpler; you can now signup and login directly from it using your GitHub, Facebook, Twitter or GitBook account.
+
 ### Download it!
 
 This version is still a pre-release, that may be unstable. We appreciate [your feedback](https://www.gitbook.com/contact).
