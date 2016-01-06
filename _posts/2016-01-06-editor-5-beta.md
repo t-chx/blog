@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GitBook Editor: Download the beta 5"
+title:  "GitBook Editor: Download the beta 5.0"
 date:   2016-01-06 12:32:00
 categories: releases
 author: samypesse
@@ -24,7 +24,11 @@ This new version includes a better editor for Markdown, with WYSIWYG-like functi
 
 A requested feature for the editor was the ability to commit multiple files at once and enter a custom commit message. It's now possible!
 
+![Commit Files]({{ site.url }}assets/2016-01-06-editor-commit.png)
+
 Authors can disable "Auto-commit" from the settings dialog. Once a file is modified, you can commit changes by clicking the "Commit" button and entering a short description of your changes.
+
+Authors can also revert all changes or specific to a file (from the files tree).
 
 ### Login with GitHub
 
