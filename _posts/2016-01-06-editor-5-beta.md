@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitBook Editor: Download the beta 5"
-date:   2015-12-23 12:32:00
+date:   2016-01-06 12:32:00
 categories: releases
 author: samypesse
 ---
@@ -12,7 +12,7 @@ We're looking for beta-testers to give us feedback about the newest GitBook Edit
 
 Today we are releasing the beta version of our latest editor version to authors. This new version includes some major improvements and new features.
 
-![Editor]({{ site.url }}assets/2015-12-23-editor.png)
+![Editor]({{ site.url }}assets/2016-01-06-editor.png)
 
 ### WYSIWYG
 
