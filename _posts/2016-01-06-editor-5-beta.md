@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GitBook Editor: Download the beta 5.0"
-date:   2016-01-06 00:00:10
+date:   2016-01-06 10:00:10
 categories: releases
 author: samypesse
 ---
