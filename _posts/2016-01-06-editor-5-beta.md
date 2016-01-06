@@ -18,6 +18,8 @@ Today we are releasing the beta version of our latest editor version to authors.
 
 This new version includes a better editor for Markdown, with WYSIWYG-like functionnalities: display math formulas, display images and links.
 
+![Math Editing]({{ site.url }}assets/2016-01-06-editor-math.gif)
+
 ### Commit multiple files at once
 
 A requested feature for the editor was the ability to commit multiple files at once and enter a custom commit message. It's now possible!
