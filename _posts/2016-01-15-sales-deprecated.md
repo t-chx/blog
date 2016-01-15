@@ -1,40 +1,38 @@
 ---
 layout: post
-title:  "Deprecation Notice: Landing Pages and Sales"
+title:  "Deprecation Notice: Paid Books & Landing Pages"
 date:   2016-01-15 10:00:00
 categories: features
 author: aaronomullan
 ---
 
-Landing Pages and Selling Books on GitBook are now deprecated features and will be removed in 30 days.
+Paid books and landing pages are now deprecated features and will be removed in 30 days (14th of February 2016).
 
 <!-- more -->
 
-GitBook.com started with the goal to become a complete marketplace to publish and sell content. During the last year and a half, GitBook evolves with its users, and it became clear authors were not looking for GitBook as a solution to sell books, but as a solution to write, publish and manage their content collaboratively.
+We decided to deprecate these features, so that we can focus on what makes GitBook special. Helping teams and individuals write, publish and manage their content collaboratively.
 
 #### Sell your GitBook on Gumroad
 
-Selling books on GitBook.com is now deprecated, and will be completely disabled in 30 days (It's already no longer possible to create a paid book). It is replaced by a better integration with [Gumroad](https://gumroad.com).
+Moving forward, paid books will be replaced by superior 3rd party integrations. We're providing a migration path to existing users through a first [Gumroad](https://gumroad.com) integration.
 
-[Gumroad](https://gumroad.com) mission is to help creators sell their work and grow their audience. The new integration allows GitBook authors to make a private book available to sell on Gumroad, they can write on GitBook and market the book on Gumroad.
+[Gumroad](https://gumroad.com)'s mission is to help creators sell their digital work and grow their audience. Enabling GitBook users to make a private GitBook available for sale on Gumroad.
 
-Paid books on GitBook.com will be converted to private books (for free), and existing customers will keep a read access to the book using [Access Keys](http://developer.gitbook.com/books/keys/index.html).
+Paid books on GitBook.com will be converted to private books (for free), and existing customers will keep their read access thanks to [Access Keys](http://developer.gitbook.com/books/keys/index.html).
 
-We'll help authors of paid books transfer setup their books on Gumroad, you can [contact us using this form](https://www.gitbook.com/contact).
+If you need help setting up your paid book on GumRoad, please [contact us](https://www.gitbook.com/contact).
 
 #### Landing Pages
 
-Landing Page customization [was introduced more than a year ago](https://www.gitbook.com/blog/features/landing) as a Marketing feature, allowing Authors to showcase their paid books using a personnalisable page.
+Custom landing pages [were introduced over a year ago](https://www.gitbook.com/blog/features/landing) as a marketing feature, allowing Authors to showcase their paid books using a personalized page.
 
-Since a few months, it was no longer possible to setup a landing page for a book. Today, as along with the paid books, we are officially deprecating this feature.
+Landing pages were deprecated a few months ago, but are now officially deprecated alongside paid books. In 30 days, all landing pages will be redirected to your book's homepage.
 
-In 30 days, these pages will redirect to the details page of your book.
-
-[We are available](https://www.gitbook.com/contact) to help authors transition these homepages to an hosting solution such as [GitHub Pages](https://pages.github.com) (using the same theme, custom domain, etc).
+[We are available](https://www.gitbook.com/contact) to help authors transition their landing page to an hosting solution such as [GitHub Pages](https://pages.github.com) (using the same theme, custom domain, etc).
 
 #### Moving forward
 
-Deprecating these features allows us to stay focus, and move faster on building the best platform to write and collaborate on content.
+Deprecating these features allows us to stay focused, and move faster on building the best platform to write and collaborate on content.
 
 Stay tuned !
 
