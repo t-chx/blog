@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deprecation Notice: Landing Pages and Sales"
-date:   2016-01-15 10:00:10
+date:   2016-01-15 10:00:00
 categories: features
 author: aaronomullan
 ---
