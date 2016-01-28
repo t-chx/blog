@@ -16,7 +16,7 @@ Starting today, importing your existing documents on GitBook.com is as simple as
 
 ### Word and Docbook
 
-The import feature has been incorporated directly in the book creation form, select your document in the "Import" tab, enter a title, and you're ready to go!
+The import feature has been incorporated directly in the book's creation form: select your document in the "Import" tab, and you're ready to go!
 
 If you already created your book, documents can also be imported into empty books using the `Import a document` button.
 
@@ -24,8 +24,8 @@ More informations about the import process are detailled in the [GitBook's docum
 
 ### Open source CLI
 
-This new feature is using behind the scenes, a new open source CLI tool: gitbook-convert](https://github.com/GitbookIO/gitbook-convert).
+This feature is using, behind the scenes, a new open source CLI tool: [gitbook-convert](https://github.com/GitbookIO/gitbook-convert).
 
 **gitbook-convert** has been built to easily convert all types of documents to the GitBook format. Based on your original document's structure, it generates the corresponding Markdown files, and the Table of Contents.
 
-As always we are open to your input, feel free to [contribute and tell us](https://github.com/GitbookIO/gitbook-convert) what format you are hoping to see supported.
+As always, feel free to [contribute and tell us](https://github.com/GitbookIO/gitbook-convert) what format you are hoping to see supported.
