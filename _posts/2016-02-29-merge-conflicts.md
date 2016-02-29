@@ -26,17 +26,30 @@ changes on a same piece of text, made by different authors. This can happen when
 When conflicts happen, you are brought to a screen that let you
 compare the two versions of a file, review and resolve the conflicts
 between them, and submit a final version. The process is the same
-whether you were merging two conflicting branches, or you and another
+whether you are merging two conflicting branches, or you and another
 author made simultaneous changes.
+
+There's just 3 steps to follow:
 
 ## Viewing conflicts
 
-## Marking conflicts as solved
+The list of conflicts you need to resolve is listed in the sidebar.
 
-## Committing
+![Conflict list screenshot]()
 
-# Improvements
+## Resolving a conflict
 
-if GitBook was not able to automatically merge the changes,
+When selecting a conflict, the center pane displays both versions of the file side-by-side.
+You can edit the left side until you are satisfied with the final merged version. Once you are done, just __mark the conflict as solved__.
 
-repofs + improve
+![Marked as solved screenshot]()
+
+## Finalizing
+
+Once all the conflicts have been solved, you can hit the __Apply__ button to commit the final merged version of the files.
+
+# Future enhancements
+
+Most of the time, GitBook should be able to merge automatically changes from both parties. When it can't, however, you are handed the raw list of conflicts. We aim to improve that by providing more meaningful conflicts and partially solve them for you when possible.
+
+This new feature is the result of the adding conflict calculation capabilities to the open-source tool [repofs](https://github.com/GitbookIO/repofs). So we are working on improving these capabilities soon.
