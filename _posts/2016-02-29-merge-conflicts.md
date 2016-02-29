@@ -10,3 +10,19 @@ Stuck editing a book because of the infamous ['Can not fast forward'](https://gi
 
 <!-- more -->
 
+# Collaborate more, without problem
+
+The version 5 of the editor will make collaboration on books even more seamless.
+The new conflict resolution feature let several authors edit the same file at the same time, without encountering errors because of conflicts. Likewise, this feature allows merging of any branches, even if they have conflicting differences.
+
+# Conflicts happen
+
+Because GitBook allows authors to collaborate on a book, and keeps at
+the same time an history of all changes, it sometimes has to deal with
+changes on a same piece of text, made by different authors. This can happen when trying to merge two conflicting branches, or when several authors edit a branch at the same time. So far this would result in [an error](https://github.com/GitbookIO/gitbook/issues/1117) and you were stuck. Now you are given a way to handle these conflicts.
+
+# Resolving conflicts
+
+# Improvements
+
+repofs + improve
