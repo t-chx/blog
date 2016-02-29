@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Handling conflicts when merging branches or collaborating on a file"
+title:  "Handling conflicts when collaborating on a book"
 date:   2016-02-29 10:00:00
 categories: features
 author: soreine
 ---
 
-Stuck editing a book because of the infamous ['Can not fast forward'](https://github.com/GitbookIO/gitbook/issues/1117) error ? Fortunately, this should never happen again.
+Intense collaboration and merging branches just got easier!
 
 <!-- more -->
 
 # Collaborate more, without problem
 
-The version 5 of the editor will make collaboration on books even more seamless.
+Version 5 of the editor will make collaboration on books even more seamless.
 The new conflict resolution feature let several authors edit the same file at the same time, without encountering errors because of conflicts. Likewise, this feature allows merging of any branches, even if they have conflicting differences.
 
 # Conflicts happen
@@ -35,21 +35,26 @@ There's just 3 steps to follow:
 
 The list of conflicts you need to resolve is listed in the sidebar.
 
-![Conflict list screenshot]()
+![Conflict list screenshot]({{ site.url }}assets/2016-02-29-conflict-list.png)
 
 ## Resolving a conflict
 
 When selecting a conflict, the center pane displays both versions of the file side-by-side.
+
+![Review a conflict screenshot]({{ site.url }}assets/2016-02-29-review-conflict.png)
+
 You can edit the left side until you are satisfied with the final merged version. Once you are done, just __mark the conflict as solved__.
 
-![Marked as solved screenshot]()
+![Marked as solved screenshot]({{ site.url }}assets/2016-02-29-mark-as-solved.png)
 
 ## Finalizing
 
-Once all the conflicts have been solved, you can hit the __Apply__ button to commit the final merged version of the files.
+Once all the conflicts have been solved, you can hit the __Apply__ button to commit the final merged version of the files and go back to your writing.
 
 # Future enhancements
 
-Most of the time, GitBook should be able to merge automatically changes from both parties. When it can't, however, you are handed the raw list of conflicts. We aim to improve that by providing more meaningful conflicts and partially solve them for you when possible.
+Most of the time, GitBook should be able to merge automatically changes from both parties. When it can't, however, you are handed the raw list of conflicts. We aim to improve that by providing more meaningful conflicts and partially solve them for you when possible. For now, avoiding to be stuck on conflicts was the top priority.
 
-This new feature is the result of the adding conflict calculation capabilities to the open-source tool [repofs](https://github.com/GitbookIO/repofs). So we are working on improving these capabilities soon.
+This new feature is the result of adding new conflict calculation capabilities to the open-source library [repofs](https://github.com/GitbookIO/repofs). Hence we will continue to improve these capabilities.
+
+2016-02-29-mark-as-solved.png
