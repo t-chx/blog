@@ -10,7 +10,7 @@ Intense collaboration for large team and merging branches just got easier!
 
 <!-- more -->
 
-![Merge with conflicts UI]({{ site.url }}assets/2016-03-02-conflicts.jpg)
+[![Merge with conflicts UI]({{ site.url }}assets/2016-03-02-conflicts.jpg)]({{ site.url }}assets/2016-03-02-conflicts.jpg)
 
 ### Collaborate more, without problem
 
