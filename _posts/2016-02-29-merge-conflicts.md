@@ -31,3 +31,5 @@ When conflicts happen, you are brought to a screen that let you compare both ver
 Most of the time, GitBook should be able to merge automatically changes from both parties. When it can't, however, you are handed the raw list of conflicts. We aim to improve that by providing more meaningful conflicts and partially solve them for you when possible. For now, avoiding to be stuck on conflicts was the top priority.
 
 This new feature is the result of adding new conflict calculation capabilities to the open-source library [repofs](https://github.com/GitbookIO/repofs). Hence we will continue to improve these capabilities.
+
+Thanks for your continued feedback and support ! Let us know what you would like to see improved in the next release !
