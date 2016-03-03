@@ -1,35 +1,36 @@
 ---
 layout: post
-title:  "Resolve conflicts when collaborating on a book"
+title:  "Editor: Conflict resolution UI"
 date:   2016-03-02 10:00:00
 categories: features
 author: soreine
 ---
 
-Intense collaboration for large team and merging branches just got easier!
+Merge conflicts are now a little less scary, thanks to our new Editor !
 
 <!-- more -->
 
 [![Merge with conflicts UI]({{ site.url }}assets/2016-03-02-conflicts.jpg)]({{ site.url }}assets/2016-03-02-conflicts.jpg)
 
-### Collaborate more, without problem
+### What are conflicts ?
 
-The new version of the editor will make collaboration on books even more seamless. The new conflict resolution feature let several authors edit the same file at the same time, without encountering errors because of conflicts. Likewise, this feature allows merging any branches, even if they have conflicting changes.
-
-### Conflicts happen
-
-Because GitBook allows authors to collaborate on content, and keeps at the same time an history of all changes, it sometimes has to deal with changes on a same piece of text, made by different authors. This can happen when trying to merge two conflicting branches, or when several authors are editing one branch at the same time. So far, this would result in [an error](https://github.com/GitbookIO/gitbook/issues/1117) and you were left stuck. From now on, you are given a way to resolve these conflicts.
+Conflicts happen when two people edit the same part of a page/document at the same time on different computers. GitBook can typically merge changes back together, but sometimes it's too ambiguous for GitBook to decide by itself and needs your help.
 
 ### Resolving conflicts
 
-When conflicts happen, you are brought to a screen that let you compare both versions of a file, review and resolve any conflict between them, and submit a final version. The process is the same whether you are merging conflicting branches, or you and another author made simultaneous changes.
+Technical users can resolve conflicts using the command line, but that's not very user friendly.
+
+Now GitBook automatically detects when a conflict will happen and displays the conflict resolution UI, allowing you to simply resolve any conflicts in a few clicks.
+
+Our editor is now one of the first tools that allows you to graphically solve merge conflicts, providing a faster and smoother user experience. Previous editor versions and most other GUI software (e.g: GitHub Desktop) throw [errors](https://github.com/GitbookIO/gitbook/issues/1117) when encountering conflicts.
 
 ![Review a conflict screenshot]({{ site.url }}assets/2016-03-02-review-conflict.png)
 
 ### Future enhancements
 
-Most of the time, GitBook should be able to merge automatically changes from both parties. When it can't, however, you are handed the raw list of conflicts. We aim to improve that by providing more meaningful conflicts and partially solve them for you when possible. For now, avoiding to be stuck on conflicts was the top priority.
+The main goal of this feature was to prevent conflicts from blocking non-technical users. Moving forward, we'll make our conflict resolver smarter, so that it can do most of the work and when it can't make it more user friendly.
 
-This new feature is the result of adding new conflict calculation capabilities to the open-source library [repofs](https://github.com/GitbookIO/repofs). Hence we will continue to improve these capabilities.
+If you're interested in the technical details:
+This feature was made possible by adding new conflict calculation capabilities to our open-source library: [GitbookIO/repofs](https://github.com/GitbookIO/repofs). Feel free to take a look and even send a PR !
 
 Thanks for your continued feedback and support ! Let us know what you would like to see improved in the next release !
